@@ -1,0 +1,7 @@
+.gradle/
+build/
+.idea/
+*.class
+*.log
+.DS_Store
+src/main/java/com/ezequiel/tema03/proyectoFinal/img/
